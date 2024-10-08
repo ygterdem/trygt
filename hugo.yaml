@@ -1,6 +1,5 @@
 # Hugo configuration file
 title: TRYGT
-  icon: github
 
 # import hextra as module
 module:
