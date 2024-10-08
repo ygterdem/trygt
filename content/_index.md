@@ -1,10 +1,3 @@
----
-title: TÜRKİYE YANDEX GAMES TOPLULUĞU 
-toc: false
----
-
-SDK'ile ilgili dökümantasyonlara aşağıdan ulaşabilirsiniz.
-
 ## Keşfet
 
 {{< cards >}}
