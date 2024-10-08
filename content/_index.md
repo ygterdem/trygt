@@ -14,4 +14,4 @@ SDK'ile ilgili dökümantasyonlara aşağıdan ulaşabilirsiniz.
 
 ## Documentation
 
-Daha fazlası için [Discord](https://discord.gg/3bN8ttGx8N).
+![](/images/logo.png) Daha fazlası için [Discord](https://discord.gg/3bN8ttGx8N).
