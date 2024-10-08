@@ -5,13 +5,13 @@ toc: false
 
 SDK'ile ilgili dökümantasyonlara aşağıdan ulaşabilirsiniz.
 
-## Explore
+## Keşfet
 
 {{< cards >}}
   {{< card link="docs" title="Dökümantasyon" icon="book-open" >}}
   {{< card link="about" title="Hakkında" icon="user" >}}
 {{< /cards >}}
 
-## Documentation
+## Dökümantasyon
 
-![](/images/logo.png) Daha fazlası için [Discord](https://discord.gg/3bN8ttGx8N).
+Daha fazlası için [Discord](https://discord.gg/3bN8ttGx8N).
