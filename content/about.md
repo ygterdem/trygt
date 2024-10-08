@@ -1,6 +1,7 @@
 ---
-title: About
+title: Hakkında
 type: about
 ---
 
-This is the about page.
+Bu site Türk, Yandex oyun geliştiricilerine SDK konusunda yardımcı olması için açılmıştır.
+

@@ -1,18 +1,13 @@
 ---
-title: Documentation
+title: Dökümantasyon
 next: first-page
 ---
 
-This is a demo of the theme's documentation layout.
-
 ## Hello, World!
 
-```go {filename="main.go"}
-package main
+```cs
+    YandexGame.savesdata.message = "Hello World";
+    YandexGame.SaveProgress();
 
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
+    Debug.Log(YandexGame.savesdata.message);
 ```

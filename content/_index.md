@@ -1,17 +1,17 @@
 ---
-title: My Site
+title: TÜRKİYE YANDEX GAMES TOPLULUĞU 
 toc: false
 ---
 
-This is the landing page.
+SDK'ile ilgili dökümantasyonlara aşağıdan ulaşabilirsiniz.
 
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="docs" title="Dökümantasyon" icon="book-open" >}}
+  {{< card link="about" title="Hakkında" icon="user" >}}
 {{< /cards >}}
 
 ## Documentation
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+Daha fazlası için [Discord](https://discord.gg/3bN8ttGx8N).
