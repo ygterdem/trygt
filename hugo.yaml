@@ -1,16 +1,6 @@
 # Hugo configuration file
-title: TRYGT
-params:
-  navbar:
-    displayTitle: true
-    displayLogo: true
-    logo:
-      path: images/logo.svg
-      dark: images/logo-dark.svg
-      link: /
-      width: 40
-      height: 20
-      
+title: TRYGT    
+
 # import hextra as module
 module:
   imports:
@@ -55,7 +45,13 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
+    logo:
+      path: images/logo.svg
+      dark: images/logo-dark.svg
+      link: /
+      width: 40
+      height: 20
 
   footer:
     displayCopyright: false
