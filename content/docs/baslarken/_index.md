@@ -2,7 +2,7 @@
 title: Başlarken
 type: docs
 prev: docs/first-page
-next: docs/folder/UnityAyarları
+next: docs/baslarken/UnityAyarları
 sidebar:
   open: true
 ---

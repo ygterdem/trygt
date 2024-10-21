@@ -18,16 +18,16 @@ markup:
 
 menu:
   main:
-    - name: Docs
+    - name: Dökümanlar
       pageRef: /docs
       weight: 1
-    - name: About
+    - name: Hakkında
       pageRef: /about
       weight: 2
-    - name: Contact ↗
+    - name: Discord ↗
       url: "https://discord.gg/3bN8ttGx8N"
       weight: 3
-    - name: Search
+    - name: Ara
       weight: 4
       params:
         type: search
@@ -49,7 +49,7 @@ params:
     logo:
       path: images/logo.svg
       dark: images/logo-dark.svg
-      link: /
+      link: https://ygterdem.github.io/trygt/
       width: 40
       height: 20
 
