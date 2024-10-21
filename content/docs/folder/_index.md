@@ -1,8 +1,8 @@
 ---
-title: Folder
+title: Başlarken
 type: docs
 prev: docs/first-page
-next: docs/folder/leaf
+next: docs/folder/UnityAyarları
 sidebar:
   open: true
 ---

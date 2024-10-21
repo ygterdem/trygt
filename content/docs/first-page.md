@@ -1,9 +1,13 @@
 ---
-title: Demo Page
+title: Giriş
 type: docs
 prev: /
 next: docs/folder/
 ---
 
-A simple demo page.
+
+## Giriş
+Bu Dökümanytasyon Yandex Games SDK'in hızlı ve efektif bir şekilde Unity tabanlı oyunlara entegre edilmesini sağlayacaktır.
+
+
 
